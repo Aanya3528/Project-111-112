@@ -1,0 +1,63 @@
+body
+{
+  color: white;
+ background:linear-gradient(white,pink,rgb(255, 109, 255));
+}
+
+h4{
+
+    font-size:30px;
+
+}
+
+body
+{
+  color: white;
+ background:linear-gradient(white,rgb(138, 138, 255),rgb(255, 137, 255));
+ font-family: 'Dancing Script', cursive;
+}
+
+span
+{
+  font-size: 30px;
+}
+#camera , #snapshot
+{
+  border: 2px dashed black;
+  width: 350px;
+  height: 300px; 
+}
+#result_emotion_name1 ,#result_emotion_name2  
+{
+  color: rgb(255, 255, 255);
+}
+.emotion_name
+{
+  font-size: 40px;
+}
+.emoji
+{
+  font-size:48px;
+}
+
+.head,button,p
+{
+  font-size: 20px;
+  font-family: 'Dancing Script', cursive;
+  background-color: aliceblue;
+  color: rgb(73, 206, 188);
+  width: 220;
+  border-radius: 20px;
+  font-size: 25px;
+  font-weight: 600;
+  border-width: 1px;
+  border-color: black;
+}
+
+#heading{
+
+width: 300;
+font-family: 'Dancing Script', cursive;
+height: 110;
+
+}
